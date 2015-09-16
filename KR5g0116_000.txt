@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 海瓊白眞君語錄
-#+DATE: 2015-08-29 02:56:01
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:55:57.050489
+#+TITLE: 海瓊白真人語録
+#+PROPERTY: DZID  DZ1307
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—111 四卷 正一部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
