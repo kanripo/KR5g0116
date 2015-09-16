@@ -1,9 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 海瓊白眞君語錄
-#+DATE: 2015-08-29 02:56:01
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: LASTPB  <md:KR5g0116_HFL_002-019b>
-#+PROPERTY: JUAN 3
-¶¶¶¶¶¶¶¶¶<md:KR5g0116_HFL_002-020b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5g0116_HFL_003-001a>¶¶<md:KR5g0116_HFL_002-020a>¶¶<pb:KR5g0116_CK-KZ_01p030a>
-之
